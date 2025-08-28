@@ -222,10 +222,6 @@ The application simulates a RESTful API with the following endpoints:
 6. Push to the branch (`git push origin feature/amazing-feature`)
 7. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - Images provided by [Pexels](https://pexels.com)
